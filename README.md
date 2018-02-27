@@ -8,6 +8,9 @@ My first game project i made for university in C# using MonoGame.
 5. profit
 
 
-Programming and Design    Christoph Mayr 
-Music                     Kevin MacLeod
-Sound Effects             orangefreesounds.com
+Programming and Design    
+# Christoph Mayr 
+Music                     
+# Kevin MacLeod
+Sound Effects             
+# orangefreesounds.com
