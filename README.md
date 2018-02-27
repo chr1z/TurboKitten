@@ -9,8 +9,8 @@ My first game project i made for university in C# using MonoGame.
 
 
 ### Programming and Design    
-### *Christoph Mayr* 
+#### *Christoph Mayr* 
 ### Music                     
-### *Kevin MacLeod*
+#### *Kevin MacLeod*
 ### Sound Effects             
-### *orangefreesounds.com*
+#### *orangefreesounds.com*
